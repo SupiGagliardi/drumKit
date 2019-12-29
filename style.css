@@ -1,5 +1,5 @@
 html {
-  font-size: 15px;
+  font-size: 19px;
   background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
   background-size: cover;
 }
@@ -11,7 +11,7 @@ kbd {
   color: #fff;
 }
 .key{
-  font-size: 6rem;
+  font-size: 4.5rem;
   border: 5px black solid;
   padding: 10px 50px;
 }
